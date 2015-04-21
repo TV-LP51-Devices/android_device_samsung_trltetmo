@@ -1,13 +1,13 @@
 [
   {
-    "repository": "CyanogenMod/android_device_samsung_trlte-common",
+    "repository": "AICP/device_samsung_trlte-common",
     "target_path": "device/samsung/trlte-common",
-    "branch":  "cm-12.1"
+    "branch":  "lp5.1"
   },
   {
-    "repository": "CyanogenMod/android_device_qcom_common",
+    "repository": "AICP/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch":  "cm-12.1"
+    "branch":  "lp5.1"
   },
   {
     "repository": "CyanogenMod/android_device_samsung_qcom-common",
@@ -20,8 +20,8 @@
     "branch": "cm-12.1"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_samsung",
+    "repository": "AICP/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "branch": "cm-12.1"
+    "branch": "lp.1"
   }
 ]

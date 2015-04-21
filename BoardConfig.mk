@@ -19,6 +19,16 @@ TARGET_OTA_ASSERT_DEVICE := trltetmo,trltecan
 
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := apq8084_sec_trlte_tmo_defconfig
+TARGET_CPU_ABI := armeabi-v7a
+TARGET_CPU_ABI2 := armeabi
+TARGET_ARCH := arm
+TARGET_ARCH_VARIANT := armv7-a-neon
+TARGET_CPU_VARIANT := krait
+
+# Init
+TARGET_INIT_VENDOR_LIB := libinit_msm
+TARGET_LIBINIT_DEFINES_FILE := device/samsung/trltetmo/init/init_trlte.c
+TARGET_UNIFIED_DEVICE := true
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm
