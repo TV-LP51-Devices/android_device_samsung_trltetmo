@@ -7,9 +7,9 @@
   },
   {
     "remote": "gh",
-    "repository": "AICP/device_qcom_common",
+    "repository": "AICP/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch":  "lp5.0"
+    "branch":  "lp5.1"
   },
   {
     "remote": "gh",
