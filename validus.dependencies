@@ -22,6 +22,6 @@
   {
     "repository": "AICP/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "branch": "lp.1"
+    "branch": "lp5.1"
   }
 ]
