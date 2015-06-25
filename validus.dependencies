@@ -1,8 +1,8 @@
 [
   {
-    "repository": "CyanogenMod/android_device_samsung_trlte-common",
+    "repository": "TV-LP51-Devices/android_device_samsung_trlte-common",
     "target_path": "device/samsung/trlte-common",
-    "branch":  "cm-12.1"
+    "branch":  "lp5.1"
   },
   {
     "repository": "CyanogenMod/android_device_qcom_common",
@@ -15,9 +15,9 @@
     "branch":  "cm-12.1"
   },
   {
-    "repository": "CyanogenMod/android_kernel_samsung_trlte",
+    "repository": "TV-LP51-Devices/android_kernel_samsung_trlte",
     "target_path": "kernel/samsung/trlte",
-    "branch": "cm-12.1"
+    "branch": "lp5.1"
   },
   {
     "repository": "CyanogenMod/android_hardware_samsung",
